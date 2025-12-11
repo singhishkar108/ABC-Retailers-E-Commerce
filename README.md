@@ -11,13 +11,12 @@
 ✨ 1. [**Introduction**](#-1-introduction)<br>
 💻 2. [**Setting Up the Project Locally**](#-2-setting-up-the-project-locally)<br>
 ✅ 3. [**Features and Functionality**](#-3-features-and-functionality)<br>
-🖼️ 4. [**Screenshots**](#️-4-screenshots)<br>
-🔑 5. [**Admin Login Credentials**](#-5-admin-login-credentials)<br>
-🏗️ 6. [**Architecture**](#️-6-architecture)<br>
-👥 7. [**Author and Contributions**](#-7-author-and-contributions)<br>
-⚖️ 8. [**MIT License**](#️-8-mit-license)<br>
-❓ 9. [**Frequently Asked Questions (FAQ)**](#-9-frequently-asked-questions-faq)<br>
-📚 10. [**References**](#-10-references)<br>
+🔑 4. [**Admin Login Credentials**](#-4-admin-login-credentials)<br>
+🏗️ 5. [**Architecture**](#️-5-architecture)<br>
+👥 6. [**Author and Contributions**](#-6-author-and-contributions)<br>
+⚖️ 7. [**MIT License**](#️-7-mit-license)<br>
+❓ 8. [**Frequently Asked Questions (FAQ)**](#-8-frequently-asked-questions-faq)<br>
+📚 9. [**References**](#-9-references)<br>
 
 ---
 
@@ -311,22 +310,7 @@ The final phase introduced a relational database for centralized data storage an
 
 ---
 
-## 🖼️ 4. Screenshots
-
-The below are screenshots of the website for Part 3, hosted in Australia East region.
-
-|            Heading            |                        Image / Screenshots                         |
-| :---------------------------: | :----------------------------------------------------------------: |
-|     **Welcome/Home Page**     |           ![Welcome/Home Page](Screenshots/HomePage.png)           |
-|       **Checkout Page**       |             ![Checkout Page](Screenshots/Checkout.png)             |
-|    **My Cart/Users Cart**     |         ![My Cart/Users Cart Page](Screenshots/MyCart.png)         |
-|        **Craftworks**         |              ![Craftworks](Screenshots/Craftwork.png)              |
-|   **Add Prodcuts (Admin)**    |        ![Add Prodcuts (Admin)](Screenshots/AddProduct.png)         |
-| **Registration Confirmation** | ![Registration Confirmation](Screenshots/RegisterConfirmation.gif) |
-
----
-
-## 🔑 5. Admin Login Credentials
+## 🔑 4. Admin Login Credentials
 
 **Email**: _admin@gmail.com_ <br>
 **Password**: _Admin@123_ <br>
@@ -336,7 +320,7 @@ The below are screenshots of the website for Part 3, hosted in Australia East re
 
 ---
 
-## 🏗️ 6. Architecture
+## 🏗️ 5. Architecture
 
 he solution for **ABC Retail** is built in mind to be used as a **cloud-native application** utilizing **Microsoft Azure services** for maximum scalability, reliability, and cost-efficiency.
 
@@ -378,7 +362,7 @@ The architecture intentionally leverages a **polyglot persistence strategy**, us
 
 ---
 
-## 👥 7. Author and Contributions
+## 👥 6. Author and Contributions
 
 ### Primary Developer:
 
@@ -403,7 +387,7 @@ The architecture intentionally leverages a **polyglot persistence strategy**, us
 
 ---
 
-## ⚖️ 8. MIT License
+## ⚖️ 7. MIT License
 
 **Copyright © 2025 Ishkar Singh**<br>
 
@@ -416,7 +400,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-## ❓ 9. Frequently Asked Questions (FAQ)
+## ❓ 8. Frequently Asked Questions (FAQ)
 
 ### 1. Why was Azure SQL Database chosen over Azure Table Storage for core order and customer data?
 
@@ -464,7 +448,7 @@ _ **Data Security**: All data transmission across the network is secured via HTT
 
 ---
 
-## 📚 10. References
+## 📚 9. References
 
 - **Azure, n.d. Azure SDK for .NET.** [online] _[github.com](https://github.com/Azure/azure-sdk-for-net/)_ [Accessed 12 April 2024].
 - **BroCode, n.d. C# for Beginners.** [online] _[youtube.com](https://www.youtube.com/watch?v=4BwyqmRTrx8)_ [Accessed 3 May 2024].
